@@ -1,2 +1,1 @@
-# DIP
-Digital Image Processing Learning Notes and Programs
+## Digital Image Processing Learning Notes and Programs
